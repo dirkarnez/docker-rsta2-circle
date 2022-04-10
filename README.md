@@ -6,4 +6,6 @@ docker-rsta2-circle
 ### TODOs
 - [ ] Graphical programming
     - `addon/lvgl`
-        - `cd addon/lvgl && make && cd sample && make && cd .. && cp -R ./sample ../../export`
+        - ```bash
+          cd addon/lvgl && make && cd sample && make && cd .. && cp -R ./sample ../../export
+          ```
