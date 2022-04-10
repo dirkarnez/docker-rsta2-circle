@@ -9,3 +9,5 @@ docker-rsta2-circle
         - ```bash
           cd addon/lvgl && make && cd sample && make && cd .. && cp -R ./sample ../../export
           ```
+- [ ] MIDI
+    - see [List of Circle based projects · rsta2/circle Wiki](https://github.com/rsta2/circle/wiki/List-of-Circle-based-projects)
